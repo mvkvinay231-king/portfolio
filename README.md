@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -637,7 +636,7 @@
 
   <!-- Footer -->
   <footer>
-    © 2026 M. Vinay Kumar | Portfolio Website
+    © 2026 M. Vinay Kumar | Student Portfolio Website
   </footer>
 
   <!-- Typing Effect -->
